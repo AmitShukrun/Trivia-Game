@@ -1,0 +1,7 @@
+body{
+    background-image:url('images/cloudBG.jpeg');
+}
+#timer{
+    font-size: 3rem;
+    text-align: center;
+}
